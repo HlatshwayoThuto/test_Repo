@@ -11,7 +11,7 @@ package javaapplication60;
 public class JavaApplication60 {
 
     /**
-     * @param args the command line arguments
+     * hffdchv@param args the command line arguments
      */
     public static void main(String[] args) {
         // TODO code application logic here
